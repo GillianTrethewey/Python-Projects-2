@@ -1,0 +1,31 @@
+Solution to Interactive Game
+
+east (hotel front door)
+take key
+west (lobby)
+west (east-west hallway)
+south (outside storage room)
+unlock
+south (to inside storage room)
+(if you're lucky, the chambermaid is there)
+take chocolate
+north (east-west hallway)
+west (outside Room 101)
+west (Room 101)
+take caramel
+east (outside Room 101)
+north (north-south hallway)
+north (outside Room 102)
+north (Room 102)
+take jujube 
+south (outside Room 102)
+east (the blue hallway)
+(if you're lucky, the chambermaid is there)
+
+Returning to hotel front door since you have three candies.
+west (outside Room 102)
+south (outside Room 101)
+east (east-west hallway)
+east (lobby)
+east (hotel front door)
+You win!
